@@ -1,0 +1,93 @@
+Overview:
+A personal productivity and study tracking website that allows users to track their study sessions, take breaks, and compete with friends. The site will have a gamified structure, where users can unlock different avatars or profile icons based on the time they spend studying, promoting motivation and friendly competition.
+
+Core Features:
+User Registration & Profile:
+
+Users create an account to track their study sessions.
+
+Profiles can be customized with a simple avatar or profile icon that changes based on the user’s study progress.
+
+User can add subjects they are studying (e.g., Math, Science, History).
+
+Subject Creation & Timer:
+
+Users can add custom subjects to track.
+
+For each subject, there is a study timer that users can start and stop when studying.
+
+The timer will track study time, break time, and sleep time.
+
+If the user stops the timer (closes the website or shuts down their system), the website will track when they were inactive and show how long they were away.
+
+Break Tracking:
+
+The website automatically tracks break times. If the user pauses the timer for more than a set time (like 15 minutes), it will note the break.
+
+It will also track total break time for the day or week.
+
+Sleep Tracking:
+
+If the user shuts down the website for the night, the next time they log in, the website will calculate how long they’ve been inactive (sleep time) and show it on their dashboard (e.g., "You slept for 8 hours").
+
+Progress & Gamification:
+
+The user’s profile will unlock new icons or badges based on the total study time:
+
+1 hour = “Student” profile
+
+3 hours = “Specs Nerd”
+
+6 hours = “Hardcore Student”
+
+8 hours = “Workaholic”
+
+10 hours = “King”
+
+12 hours = “God-level Studier”
+
+Users can unlock achievements and cool visual upgrades as they study more, keeping things motivating and fun.
+
+Leaderboard/Competition with Friends:
+
+Users can create study groups with friends and track how they compare with each other’s study times.
+
+There will be a leaderboard where users can see:
+
+Who is studying the most in their group.
+
+Ranks for the day, week, and month.
+
+Users can compete for the top spot, with a ranking system based on total study time.
+
+Notifications & Reminders:
+
+Notifications to remind the user to take breaks after a set amount of study time (like the Pomodoro technique).
+
+Reminders to resume their timer if they haven’t started studying yet.
+
+Motivation-based notifications (e.g., “Keep it up! You’re on track to hit your goal!”).
+
+Daily/Weekly Progress Reports:
+
+Users can see a report of how much time they’ve spent studying, how much time they’ve been taking breaks, and how much sleep they’re getting.
+
+Reports can display graphs to show improvement over time.
+
+User Dashboard:
+
+Main Dashboard: Shows all active study subjects, study timer, progress, current streak, and total study time.
+
+Friends Dashboard: A place to see friends' progress, rankings, and challenges.
+
+Achievements Page: Track the badges and icons you’ve unlocked as part of your study journey.
+
+Design:
+
+Simple yet engaging UI with a clean dashboard that highlights the timer, progress, and notifications.
+
+Color coding for different types of time: study time (green), break time (blue), sleep time (yellow).
+
+Friendly, interactive animations for when users unlock achievements or move up in rank.
+
+Customizable Themes so users can tweak the design to their preference (dark mode, light mode).

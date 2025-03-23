@@ -1,0 +1,55 @@
+"Edit the existing study timer website by adding the following features:
+
+Daily Study Goal Editing:
+
+Allow users to set and modify daily goals for study time (e.g., 8 hours total study time for today or 5 hours for a specific subject like Math).
+
+Make it possible for users to edit their daily goals at any time based on their progress or changing schedule.
+
+Subject-Specific Study Goals:
+
+Add an option to set individual subject study targets (e.g., Math: 2 hours, Science: 3 hours).
+
+The timer should track time for each subject separately and be persisted even when the website is closed or the user is studying from a different device or website.
+
+Start Study and Break Options:
+
+Remove the reset timer option and keep only two options: Start Study and Start Break.
+
+When the user clicks Start Study, the timer for the selected subject should begin.
+
+When the user clicks Start Break, the timer should pause, and when the user returns, the break should ask what was your break for (e.g., playing, rest, washroom, or custom tags).
+
+Add a tag system to track break types (e.g., rest, playing, etc.) and allow users to create their own custom tags.
+
+Leaderboard Portal:
+
+When the user clicks Start Study, they should be directed to a leaderboard portal where they can see their study timer, the rankings, and compare their study time with others.
+
+The portal should show real-time rankings and timers, allowing users to see where they stand relative to others.
+
+Display titles like 1st Hour Student, 2nd Hour Average Student, 12-Hour God, and Hacker if someone exceeds 12 hours of study.
+
+Ensure that real-time progress is displayed for both the user and other users.
+
+Customizable Goals and Tags:
+
+The user should be able to edit their daily goal at any point during the day.
+
+Allow users to add custom tags for breaks and use pre-defined ones like rest, playing, etc.
+
+Offline Tracking for Study Time:
+
+The website should work even when it's off or if the user switches to another website.
+
+The timer should continue counting for both study time and breaks, even if the website is not open or if the user is studying from a different device.
+
+The website should sync with the user's account so they can track their progress no matter where they are.
+
+Simple User Interface:
+
+Maintain a clean interface with only Start Study and Start Break options.
+
+Keep it intuitive and easy to navigate with clear progress indicators for study time and goals.
+
+In summary: Edit the website to allow for daily goal editing, subject-specific goals, leaderboard rankings, break tracking with custom tags, and make sure the timer continues even when the website is off or the user is studying from a different website or device. The focus should be on creating a competitive, fun, and motivational study platform."
